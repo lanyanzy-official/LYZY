@@ -17,7 +17,16 @@
 **官方网站永久域名：**  
 [https://lanyanzy.com](https://lanyanzy.com/)
 
-> 官方推特、Telegram、官方邮箱等联系方式后续如有更新，也会统一公布在本页面。
+**官方 Telegram 频道：**  
+[https://t.me/lanyanzy](https://t.me/lanyanzy)
+
+**官方 Telegram 用户群：**  
+[https://t.me/lanyan_users](https://t.me/lanyan_users)
+
+**官方邮箱：**  
+lanyanzy168@gmail.com
+
+> 请认准以上官方联系方式。后续如有最新地址、域名或联系方式变更，将统一在本 GitHub 发布页更新。
 
 ---
 
